@@ -1,2 +1,2 @@
 # sowerscongress
-Brandon Sowers for Congress chatbot
+Brandon Sowers for Congress miscellaneous tasks.
